@@ -1,0 +1,7 @@
+{
+    "bitoAI.codeCompletion.enableAutoCompletion": true,
+    "bitoAI.codeCompletion.enableCommentToCode": true,
+    "chatgpt.apiKey": "eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjoidjFfNDIwNV8xMDk5NTY3XzY2NTAzMl9XZWQgSmFuIDI0IDE1OjEyOjM0IFVUQyAyMDI0In0.zloeK0vB9INKM8ypJXA1Ayx4h8zpL5-C1fkaOt0zBrc",
+    "genieai.azure.url": "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",
+    "liveServer.settings.port": 5501
+}
