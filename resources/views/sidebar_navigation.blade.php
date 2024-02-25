@@ -14,11 +14,11 @@
          <!-- Sidebar Navigation Menus Start-->
          <span class="heading">Main</span>
          <ul class="list-unstyled">
-             <li class="active"><a href="index.html"> <i class="icon-home"></i>Home</a></li>
-             <li><a href="jobpreparation.html"> <i class="icon-padnote"></i>Job Preparation Panel </a></li>
-             <li><a href="forms.html"> <i class="icon-padnote"></i>Coures</a></li>
-             <li><a href="tables.html"> <i class="icon-grid"></i>About Us</a></li>
-             <li><a href="charts.html"> <i class="fa fa-bar-chart"></i>Help & Contact </a></li>
-             <li><a href="charts.html"> <i class="fa fa-bar-chart"></i>CV Creator </a></li>
+             <li class="active"><a href="#"> <i class="icon-home"></i>Home</a></li>
+             <li><a href="#"> <i class="icon-padnote"></i>Job Preparation Panel </a></li>
+             <li><a href="#"> <i class="icon-padnote"></i>Coures</a></li>
+             <li><a href="#"> <i class="icon-grid"></i>About Us</a></li>
+             <li><a href="#"> <i class="fa fa-bar-chart"></i>Help & Contact </a></li>
+             <li><a href="#"> <i class="fa fa-bar-chart"></i>CV Creator </a></li>
      </nav>
      <!-- Sidebar Navigation Bar end-->

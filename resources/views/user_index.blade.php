@@ -71,7 +71,7 @@
   <!-- Others Section End-->
 
   <!-- JavaScript files-->
-  @import(user_js)
+  <!-- @import(user_js) -->
 </body>
 
 </html>
